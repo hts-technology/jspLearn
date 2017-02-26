@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlrewrite>
+	<rule>
+
+   <from>/login.html</from> 
+
+   <to type="forward">/login.jsp</to>
+
+ </rule> 
+</urlrewrite>
